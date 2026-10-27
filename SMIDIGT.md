@@ -2,7 +2,7 @@
 
 This public fork is the local matte engine used by **Studio Smidigt — Key β**,
 a separate background-removal experiment in
-[Studio Smidigt](https://github.com/voccov/Studio-Smidigt).
+[Studio Smidigt](https://github.com/voccov/studio-smidigt).
 
 The upstream CorridorKey code and weights are unchanged. Studio Smidigt calls
 `infer.py` from an isolated virtual environment and uses the model's **alpha**
